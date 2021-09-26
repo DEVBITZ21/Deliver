@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="50dp"
+     android:text="Update Details"
+     android:background="@color/black"
+     android:textSize="25dp"
+     android:gravity="center"
+     android:textColor="#FFF"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_margineBottom="5dp"
+        android:text="Address"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:lauout_marginLeft="10dp"
+        android:layout_margineRight="10dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/addtext"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_margineBottom="5dp"
+        android:text="Email"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:lauout_marginLeft="10dp"
+        android:layout_margineRight="10dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/mailtext"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_margineBottom="5dp"
+        android:text="ID"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:lauout_marginLeft="10dp"
+        android:layout_margineRight="10dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/idno"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_margineBottom="5dp"
+        android:text="image"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:lauout_marginLeft="10dp"
+        android:layout_margineRight="10dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/img1"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_margineBottom="5dp"
+        android:text="Name"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:lauout_marginLeft="10dp"
+        android:layout_margineRight="10dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/nametext"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_margineBottom="5dp"
+        android:text="TpNo"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:lauout_marginLeft="10dp"
+        android:layout_margineRight="10dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/tpno"/>
+
+   <Button
+       android:id="@+id/btnUpdate"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="25dp"
+       android:layout_marginTop="10dp"
+       android:layout_marginRight="25dp"
+       android:background="@drawable/rounded"
+       android:text="@string/btnUpdate"
+       android:textAllCaps="false"
+       android:textSize="21dp" />
+
+   <Button
+       android:id="@+id/btnBack"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="25dp"
+       android:layout_marginTop="10dp"
+       android:layout_marginRight="25dp"
+       android:background="@drawable/rounded"
+       android:text="@string/btnBack"
+       android:textAllCaps="false"
+       android:textSize="21dp" />
+
+
+
+
+
+</LinearLayout>

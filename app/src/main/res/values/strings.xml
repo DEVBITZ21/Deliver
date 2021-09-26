@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Deliver</string>
+    <string name="btnEdit">Edit</string>
+    <string name="addtext">Deliverman Address</string>
+    <string name="mailtext">Email</string>
+    <string name="idno">IDNO</string>
+    <string name="nametext">Name</string>
+    <string name="tpno">TelePhone</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Save</string>
+    <string name="btnBack">Back</string>
+    <string name="btnAdd">Save</string>
+
+</resources>

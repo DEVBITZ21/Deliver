@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285282831308",
+    "firebase_url": "https://diliver-cd81a-default-rtdb.firebaseio.com",
+    "project_id": "diliver-cd81a",
+    "storage_bucket": "diliver-cd81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285282831308:android:864b657d9140a8840e2b69",
+        "android_client_info": {
+          "package_name": "com.example.deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285282831308-slvnt06am7aqvact1hjdiqikue7t373o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt4wKxwgBBZ3M6uALDhGAj8Z92ADWCYwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285282831308-slvnt06am7aqvact1hjdiqikue7t373o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
